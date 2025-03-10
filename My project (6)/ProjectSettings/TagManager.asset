@@ -11,12 +11,12 @@ TagManager:
   - 
   - Water
   - UI
+  - WhatisPlayer
   - 
   - 
-  - 
-  - 
-  - WhatisGround
-  - 
+  - whatIsWall
+  - whatIsGround
+  - whatIsGround
   - 
   - 
   - 
