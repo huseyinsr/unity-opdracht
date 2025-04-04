@@ -12,6 +12,6 @@ Mechanic 2
 
 De naam van deze mechanic is 'release princess'. De speler moet de gevangenis raken om te verwijderen, daarna wordt de prinses vrij en speelt haar "victory" animatie.
 
-[code van 'release princess' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/birdCage.cs)
+[code van 'release princess' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My project (6)/Assets/script/birdCage.cs)
 
 ![ezgif-3d5cbc393e65e0](https://github.com/user-attachments/assets/83da3623-5eb3-4760-ac2c-450a8b4a2071)
