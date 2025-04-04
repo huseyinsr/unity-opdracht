@@ -5,3 +5,9 @@ De naam van deze mechanic is 'wall riding'. Met deze mechanic kun je van een muu
 
 
 ![ezgif-48908ba751fb9f](https://github.com/user-attachments/assets/eae82c08-9cee-4886-903d-9f5b67d3e569)
+
+De naam van deze mechanic is 'release princess'. De speler moet de gevangenis raken om te verwijderen, daarna wordt de prinses vrij en speelt haar "victory" animatie.
+
+[code van 'release princess' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/birdCage.cs)
+
+![ezgif-3d5cbc393e65e0](https://github.com/user-attachments/assets/83da3623-5eb3-4760-ac2c-450a8b4a2071)
