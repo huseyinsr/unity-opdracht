@@ -15,3 +15,7 @@ De naam van deze mechanic is 'release princess'. De speler moet de gevangenis ra
 [code van 'release princess' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/main/My%20project%20(6)/Assets/script/birdCage.cs)
 
 ![ezgif-3d5cbc393e65e0](https://github.com/user-attachments/assets/83da3623-5eb3-4760-ac2c-450a8b4a2071)
+
+Mechanic 3&4 
+
+
