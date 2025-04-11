@@ -4,6 +4,7 @@ Mechanic 1
 De naam van deze mechanic is 'wall riding'. Met deze mechanic kun je van een muur naar een andere muur springen.
 
 [1e code van 'wall riding' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/WallRunning.cs)
+
 [2e code van 'wall riding' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/WallJumpScript.cs)
 
 
