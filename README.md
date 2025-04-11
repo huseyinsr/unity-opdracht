@@ -3,7 +3,8 @@ Mechanic 1
 
 De naam van deze mechanic is 'wall riding'. Met deze mechanic kun je van een muur naar een andere muur springen.
 
-[code van 'wall riding' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/WallRunning.cs)
+[1e code van 'wall riding' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/WallRunning.cs)
+[2e code van 'wall riding' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/WallJumpScript.cs)
 
 
 ![ezgif-48908ba751fb9f](https://github.com/user-attachments/assets/eae82c08-9cee-4886-903d-9f5b67d3e569)
@@ -21,4 +22,6 @@ Mechanic 3 & 4
 Jump & walk mechanics
 
 ![ezgif-1ea40ce9d21dc5](https://github.com/user-attachments/assets/b1b136ac-7f28-4cd0-94be-c8af31c2ef48)
+
+[code van 'Jump & walk' mechanics](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/playermovement.cs)
 
