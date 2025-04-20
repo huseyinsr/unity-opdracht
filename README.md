@@ -4,10 +4,11 @@ Game Consept
 Er zijn levels die je binnen een bepaalde tijd moet voltooien. Als dat niet lukt, begin je opnieuw bij het begin van het level. Je moet in totaal vier levels afronden. Wanneer je alle levels hebt voltooid, kun je de prinses bevrijden en win je het spel.
 Het is een 3D parkour-game, dus je moet de parkours binnen de tijdslimiet voltooien. Onze mechanics sluiten goed aan bij het concept van de game.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mechanic 1
 
-/De naam van deze mechanic is 'wall riding'. Met deze mechanic kun je van een muur naar een andere muur springen.
+De naam van deze mechanic is 'wall riding'. Met deze mechanic kun je van een muur naar een andere muur springen.
 
 [1e code van 'wall riding' mechanic](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/WallRunning.cs)
 
