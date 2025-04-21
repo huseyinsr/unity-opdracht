@@ -33,4 +33,8 @@ Jump & walk mechanics
 
 [code van 'Jump & walk' mechanics](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/playermovement.cs)
 
+Final Game 
+
+https://s1.ezgif.com/tmp/ezgif-158b1a8dbb2d4f.gif
+
 
