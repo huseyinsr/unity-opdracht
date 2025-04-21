@@ -35,6 +35,6 @@ Jump & walk mechanics
 
 Final Game 
 
-https://s1.ezgif.com/tmp/ezgif-158b1a8dbb2d4f.gif
+![ezgif-1293962dda4e6a](https://github.com/user-attachments/assets/9b07f421-ee02-4391-807b-d65a6d366422)
 
 
