@@ -1,8 +1,8 @@
 # uniy-opdracht
 Game Consept
 
-Er zijn levels die je binnen een bepaalde tijd moet voltooien. Als dat niet lukt, begin je opnieuw bij het begin van het level. Je moet in totaal vier levels afronden. Wanneer je alle levels hebt voltooid, kun je de prinses bevrijden en win je het spel.
-Het is een 3D parkour-game, dus je moet de parkours binnen de tijdslimiet voltooien. Onze mechanics sluiten goed aan bij het concept van de game.
+Er is een level die je  moet voltooien.  Wanneer je level hebt voltooid, kun je de prinses bevrijden en win je het spel.
+Het is een 3D parkour-game. Onze mechanics sluiten goed aan bij het concept van de game.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,5 +32,9 @@ Jump & walk mechanics
 ![ezgif-1ea40ce9d21dc5](https://github.com/user-attachments/assets/b1b136ac-7f28-4cd0-94be-c8af31c2ef48)
 
 [code van 'Jump & walk' mechanics](https://github.com/huseyinsr/unity-opdracht/blob/huseyin/My%20project%20(6)/Assets/script/playermovement.cs)
+
+Final Game 
+
+![ezgif-1293962dda4e6a](https://github.com/user-attachments/assets/9b07f421-ee02-4391-807b-d65a6d366422)
 
 
